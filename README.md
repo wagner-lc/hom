@@ -7,7 +7,8 @@ The project is based on a real system developed for daily use in a hotel environ
 ## 🌐 Live Demo
 
 **[Open HOM Demo](https://hom.ct.ws/login.html)**
-
+Guest login: demo
+Password: demo123
 ## ✨ Features
 
 * Maintenance task management
